@@ -1,0 +1,12 @@
+#################
+#Temporary files#
+#################
+*.swp
+*.pyc
+.env/*
+
+
+###############
+#Jupyter files#
+###############
+.ipynb_checkpoints/*

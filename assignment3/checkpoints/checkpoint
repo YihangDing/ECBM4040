@@ -1,0 +1,4 @@
+model_checkpoint_path: "gi6000_l512.ckpt"
+all_model_checkpoint_paths: "gi2000_l512.ckpt"
+all_model_checkpoint_paths: "gi4000_l512.ckpt"
+all_model_checkpoint_paths: "gi6000_l512.ckpt"
